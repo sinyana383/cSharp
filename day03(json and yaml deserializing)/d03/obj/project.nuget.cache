@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F7tI21ToefvJZ9FPQCtzPKs1LCLWivyJRYn36qbccRbJuaau/uyXJI6Mkz8V5GbI1R8RiBj2UIZ6tvY4bztq7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1\\Desktop\\cSharp\\day03(json and yaml deserializing, get configuration, exceptions)\\d03\\d03.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1\\.nuget\\packages\\yamldotnet\\13.1.0\\yamldotnet.13.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
