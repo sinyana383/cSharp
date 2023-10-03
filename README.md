@@ -1,6 +1,8 @@
 # cSharp
 
 ### cSharp Projects to consolidate knowledge after boot camp
+- :space_invader: [Copace](https://github.com/sinyana383/Copace/tree/main) - plain arkanoid
+- :eye: [FlyEye](https://github.com/sinyana383/FlyEye) - Flappy-bird-like game
 
 ### cSharp Fundamentals learned on boot camp
 
